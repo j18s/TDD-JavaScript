@@ -1,5 +1,5 @@
 # Welcome to Workshop
-***A live coding session on TDD and implementing FizzBuzz***
+***A live coding session on TDD and implementing FizzBuzz*** :+1:
 #####Twitter: @sumitjolly
 
 ### TDD
