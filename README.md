@@ -28,7 +28,14 @@
 - Matchers like 
   * toEqual()
   * toBe()
-  * toMatch() etc.
+  * toMatch()
+  * ...
 
+**OTHER TOOLS**
+- Gulp
+- Grunt
+- Mocha
+- Chai
+- ...
 
-
+**SETUP BASIC WEB APP**
