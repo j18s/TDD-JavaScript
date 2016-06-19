@@ -64,12 +64,11 @@
 ###FIZZ BUZZ
 
 ```Fizz buzz is a group word game for children to teach them about division.[1] Players take turns to count incrementally, replacing any number divisible by three with the word "fizz", and any number divisible by five with the word "buzz"```
-* - by Wikipedia*
+* by Wikipedia*
 * Print numbers from 1 to 100
 * Print "Fizz" instead of the number that is divisible by 3
 * Print "Buzz" instead of the number that is divisible by 5
 * Print "FizzBuzz" instead of the number that is divisible by both 3 and 5
-* 
 
 
 
