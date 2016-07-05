@@ -1,7 +1,5 @@
-# Welcome to Workshop
+# JavaScript
 ***A live coding session on TDD and implementing FizzBuzz*** :+1:
-#####Twitter: @sumitjolly
-#####*Working as "Technology Architect" and passionate for coding!!
 
 ### TDD
 * Red
